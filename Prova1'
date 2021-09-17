@@ -1,0 +1,20 @@
+var PesoT = prompt("Informe o peso de seu caminhão, em toneladas");
+var Altura = prompt("Informe a altura do veiculo");
+var valor = parseInt(valorSTR);
+if (PesoT  < 170 && Altura > 6 ){
+    var PesoT = Console.read();
+    var Altura = Console.read();
+   prompt("O seu veiculo pode passar na ponte Ponte Octavio Frias de Oliveira")
+    }
+}else if(PesoT  < 103 && Altura > 4 ){
+    var PesoT = Console.read();
+    var Altura = Console.read();
+prompt("O seu veiculo pode passar na ponte Ponte Juscelino Kubitschek")
+
+    }
+
+}else if( PesoT  < 90 && Altura > 8){
+     var PesoT = Console.read();
+    var Altura = Console.read();
+prompt("O seu veiculo pode passar na ponte Ponte das Bandeiras")
+    }
